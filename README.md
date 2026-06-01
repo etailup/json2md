@@ -1,5 +1,7 @@
 # json2md
 
+[![CI](https://github.com/etailup/json2md/actions/workflows/ci.yml/badge.svg)](https://github.com/etailup/json2md/actions/workflows/ci.yml)
+
 Turn messy JSON into readable Markdown — tables for arrays of objects, nested sections for objects, zero config.
 
 ## Install
